@@ -1,9 +1,9 @@
-### Opaa!! Me Chamo Gustavo. Mas Podem Me Chamar de Alves, Seja Bem Vindos!! 🇧🇷
+### Opaa!! Me Chamo Gustavo. Estou aprendendo Programção
  
   
 - 🌱 Atualmente estou aprendendo e entrando nesse mundo dos DEVs..
 - 🤔 Estou Aprendendo JavaScript!
-- ⚡ Curiosidade: Sempre Gostei de Desenvolvimentos e Comprei meu PC e Montei Sozinho Para Começar a Estudar no Ramo de Tecnologia. Porem Tenho a Grande Dificuldade de Onde Começar e Sobre Oque Estudar. Estou na Imerção Dev da ALURA e Gostando Muito e Aos Poucos Aprendendo!!
+- ⚡ Curiosidade: Comecei na IMERSÃO DEV da Alura!
 
 
  <div>
