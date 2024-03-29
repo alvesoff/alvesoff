@@ -1,8 +1,8 @@
-### Opaa!! Me Chamo Gustavo. Estou aprendendo Programção
+### Opaa!! Me Chamo Gustavo. Estou aprendendo Programação.
  
   
 - 🌱 Atualmente estou aprendendo e entrando nesse mundo dos DEVs..
-- 🤔 Estou Aprendendo JavaScript!
+- 🤔 Estou Aprendendo Front-End!
 - ⚡ Curiosidade: Comecei na IMERSÃO DEV da Alura!
 
 
