@@ -1,9 +1,9 @@
 ### Opaa!! Me Chamo Gustavo. Estou aprendendo Programação.
  
   
-- 🌱 Atualmente estou aprendendo e entrando nesse mundo dos DEVs..
+- 🌱 Atualmente estou aprendendo 
 - 🤔 Estou Aprendendo Front-End!
-- ⚡ Curiosidade: Comecei na IMERSÃO DEV da Alura!
+- ⚡ Curiosidade: 
 
 
  <div>
