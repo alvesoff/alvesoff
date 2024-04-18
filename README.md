@@ -1,23 +1,47 @@
-### Opaa!! Me Chamo Gustavo. Estou aprendendo Programação.
- 
+<h3> Olá, eu sou o Gustavo Alves! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
+<h4></h4>   
   
 - 🌱 Atualmente estou aprendendo!!
 - 🤔 Estou Aprendendo Front-End!
-- ⚡ Curiosidade: Comecei na Alura!
+- ⚡ Curiosidade: Iniciei meus estudos na Alura e agora estou progredindo ainda mais no Senai!
 
+<h6>#desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
 
+##
+<h3> Linguagens Usadas: </h3>
+<br>
+  
  <div>
   <a href="https://github.com/alvesoff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesoff&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvesoff&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-  
-  ##
+##
+
+<h3> 🌐 Redes Sociais: <br></h3> 
  
 <div> 
   <a href="https://instagram.com/_alvesoff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alvesoff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alvesoff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dev.alvesdossan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+
+<br>
+  
+<div align="center" style="display: inline_block"> 
+  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+##
+
+<i>Com grandes responsabilidades vêm grandes poderes ⭐<i><br>
+<img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+
+##
+  
+ 
 
 
