@@ -37,8 +37,8 @@
 
 ##
 
-<i>Com grandes responsabilidades vêm grandes poderes ⭐<i><br>
-<img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+<i>Com grandes responsabilidades vêm grandes poderes ⭐<i><br> <br> 
+<img src="https://raw.githubusercontent.com/alvesoff/alvesoff/main/money-icegif-28.gif" width="220">
 
 ##
   
