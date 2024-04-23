@@ -37,7 +37,7 @@
 
 ##
 
-<i>Com grandes responsabilidades vêm grandes poderes ⭐<i><br> <br> 
+<i>With great power comes great responsibility. ⭐<i><br> <br> 
 <img src="https://raw.githubusercontent.com/alvesoff/alvesoff/main/money-icegif-28.gif" width="220">
 
 ##
