@@ -3,7 +3,7 @@
   
 - 🌱 Atualmente estou aprendendo!!
 - 🤔 Estou Aprendendo Front-End!
-- ⚡ Curiosidade: Iniciei meus estudos na Alura e fiz senai e estou estudando cada vez mais!!
+- ⚡ Curiosidade: Sou Fã do Mundo Automotivo!
 
 <h6>#desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
 
