@@ -5,6 +5,8 @@
 - 🤔 Estou Estudando Front-End!
 - ⚡ Curiosidade: Sou Fã do Mundo Automotivo!
 
+<h6>Meu Portifolio Pessoal: https://gustavoporti.netlify.app/</h6>
+
 <h6>#desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
 
 ##
