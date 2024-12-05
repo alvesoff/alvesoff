@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+    <script type="module" src="script.js" defer></script>
+    <title>Relatar Problema</title>
+</head>
+<body>
+    <header>
+        <img src="img/Captura_de_tela_2024-12-02_140851-removebg-preview 1.png" alt="">
+        <p>Ribeirão Preto <br> <h4>Mobilize</h4></p>
+    </header>
+
+    <main>
+        <div class="new-post">
+            <div class="info-user">
+                <div class="img-user"></div>
+                <strong>Douglas Pujol</strong>
+            </div>
+
+            <form id="formPost" class="form-post">
+                <textarea id="textarea" name="textarea" placeholder="Vamos mudar o mundo"></textarea>
+
+                <div class="icons-and-button">
+                    <div class="icons">
+                      <button class="btn-file-form">
+                        <i class="fa-regular fa-image"></i>
+                      </button> 
+                    </div>
+                    <button type="submit" class="btn-submit-form">
+                        Publicar
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <ul id="posts" class="posts">
+            <!-- Os posts serão adicionados dinamicamente aqui -->
+        </ul>
+    </main>
+</body>
+</html>
