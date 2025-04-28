@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/alvesoff/alvesoff/main/money-icegif-28.gif" width="220">
 </div>
 
-<img src="https://github.com/alvesoff/alvesoff/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://github.com/alvesoff/alvesoff/blob/output/github-contribution-grid-snake2.svg" width="100%">
   
  
 
