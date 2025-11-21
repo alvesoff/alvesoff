@@ -49,20 +49,21 @@ Sou um apaixonado por tecnologia focado em resolver problemas reais através de 
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Projeto em Destaque: Plataforma Educandário
 
-<div align="center">
-  <a href="https://github.com/alvesoff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesoff&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+> **Status:** Em Produção 🟢 | **Papel:** Tech Lead & Desenvolvedor Full-Stack (Solo)
 
-<br/>
+Lidero e desenvolvo integralmente uma plataforma SaaS educacional focada na aplicação e gestão de simulados de alta performance. O sistema digitaliza o processo de avaliação, oferecendo métricas em tempo real para alunos e gestores.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvesoff&theme=dracula&hide_border=true" />
-</div>
+**Principais Desafios & Soluções:**
+* **Arquitetura:** Desenvolvi uma estrutura escalável (Backend Java/Spring + Frontend React) capaz de suportar picos de acesso simultâneo durante horários de prova.
+* **Infraestrutura:** Migração e orquestração de servidores em Cloud (Oracle), garantindo alta disponibilidade e segurança dos dados.
+* **Funcionalidades:**
+    * Gerador de provas dinâmico com banco de questões.
+    * Correção automática e dashboards de desempenho (Analytics).
+    * Sistema de permissões hierárquicas (Aluno, Professor, Gestor).
+
+**Stack:** Java, Spring Boot, React, PostgreSQL/Oracle, Docker, CI/CD.
 
 ---
 
