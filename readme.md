@@ -56,14 +56,14 @@ Sou um apaixonado por tecnologia focado em resolver problemas reais através de 
 Lidero e desenvolvo integralmente uma plataforma SaaS educacional focada na aplicação e gestão de simulados de alta performance. O sistema digitaliza o processo de avaliação, oferecendo métricas em tempo real para alunos e gestores.
 
 **Principais Desafios & Soluções:**
-* **Arquitetura:** Desenvolvi uma estrutura escalável (Backend Java/Spring + Frontend React) capaz de suportar picos de acesso simultâneo durante horários de prova.
+* **Arquitetura:** Desenvolvi uma estrutura escalável (Backend Typescript/Node.js + Frontend React) capaz de suportar picos de acesso simultâneo durante horários de prova.
 * **Infraestrutura:** Migração e orquestração de servidores em Cloud (Oracle), garantindo alta disponibilidade e segurança dos dados.
 * **Funcionalidades:**
     * Gerador de provas dinâmico com banco de questões.
     * Correção automática e dashboards de desempenho (Analytics).
     * Sistema de permissões hierárquicas (Aluno, Professor, Gestor).
 
-**Stack:** Java, Spring Boot, React, PostgreSQL/Oracle, Docker, CI/CD.
+**Stack:** Typescript, Node.js, React, PostgreSQL/Oracle, Docker, CI/CD.
 
 ---
 
