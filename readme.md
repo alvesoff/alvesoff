@@ -45,7 +45,7 @@ Sou um apaixonado por tecnologia focado em resolver problemas reais através de 
 
 ---
 
-### 🏆 Projeto em Destaque: Plataforma Educandário
+### 🏆 Projeto em Destaque: Provavirtual.com.br
 
 > **Status:** Em Produção 🟢 | **Papel:** Tech Lead & Desenvolvedor Full-Stack (Solo)
 
