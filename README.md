@@ -96,6 +96,6 @@ Desenvolvedor Full-Stack com foco em **TypeScript/Node.js** e DevOps em **Oracle
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvesoff&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvesoff&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true&days=365&custom_title=Atividade%20no%20GitHub%20(%C3%BAltimos%2012%20meses)" alt="Gráfico de atividade do GitHub - últimos 12 meses" />
 
 </div>
