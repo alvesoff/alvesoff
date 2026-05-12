@@ -96,10 +96,6 @@ Desenvolvedor Full-Stack com foco em **TypeScript/Node.js** e DevOps em **Oracle
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobra comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvesoff&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 
 </div>
