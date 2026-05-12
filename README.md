@@ -94,16 +94,12 @@ Desenvolvedor Full-Stack com foco em **TypeScript/Node.js** e DevOps em **Oracle
 
 ---
 
-### Onde me encontrar
+<div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/alvesdossan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gustavo.santos@educandariorp.com.br">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>
-  <a href="https://github.com/alvesoff">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobra comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
