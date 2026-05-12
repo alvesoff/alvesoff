@@ -96,15 +96,6 @@ Desenvolvedor Full-Stack com foco em **TypeScript/Node.js** e DevOps em **Oracle
 
 <div align="center">
 
-<a href="https://github.com/alvesoff">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alvesoff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00b4d8&title_color=00b4d8&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=alvesoff&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="Streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/alvesoff">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesoff&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top linguagens" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvesoff&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 
 </div>
