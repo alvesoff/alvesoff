@@ -18,8 +18,8 @@
 Desenvolvedor Full-Stack com foco em **TypeScript/Node.js** e DevOps em **Oracle Cloud + Kubernetes**. Atualmente trabalho na Fundação Educandário Coronel Quito Junqueira (FECQJ), em Ribeirão Preto, mantendo e evoluindo a stack de software e infra usada por professores, alunos e administradores.
 
 - 🎓 Cursando **Ciência da Computação** — Centro Universitário Barão de Mauá
-- 🛠️ Atuação atual: desenvolvimento full-stack + administração de infraestrutura (OCI/K8s) + Microsoft 365 admin
-- 🤝 **Aberto a freelas e oportunidades** — TypeScript, React/Next, Node, automações, infra cloud
+- 🛠️ Atuação atual: desenvolvimento full-stack + administração de infraestrutura (OCI/K8s)
+- 🤝 **Aberto a freelas e oportunidades** — TypeScript, Node, automações, infra cloud
 - 🤖 Integro LLMs (Claude, Gemini, Codex) em ferramentas internas e fluxos com **n8n**
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/alvesdossan/) · [E-mail](mailto:gustavo.santos@educandariorp.com.br)
 
