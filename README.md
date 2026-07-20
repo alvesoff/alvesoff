@@ -60,10 +60,6 @@ Desenvolvedor Full-Stack com foco em **TypeScript/Node.js** e DevOps em **Oracle
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alvesoff/alvesoff/main/github-metrics.svg" alt="Estatísticas do GitHub" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake.svg" />
