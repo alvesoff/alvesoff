@@ -25,8 +25,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#0a4d5e&color_dots=#e8f4f8,#a9def0,#5fc9e6,#1aa9d4,#00b4d8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#e6edf3&color_dots=#161b22,#0a3a48,#0a6b83,#0e9dc0,#00d4f5
 
       # publica o conteúdo de dist/ na branch "output"
       # fica acessível em https://raw.githubusercontent.com/<user>/<repo>/output/<arquivo>
