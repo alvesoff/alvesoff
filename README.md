@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/alvesoff">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+sou+o+Gustavo+Alves+%F0%9F%91%8B;Dev+Full-Stack+%2B+DevOps+na+FECQJ;TypeScript+%C2%B7+Node.js+%C2%B7+OCI+%C2%B7+ClaudeCode" alt="Intro animada" />
-</a>
+# Olá, sou o Gustavo Alves 👋
+
+### Dev Full-Stack + DevOps na FECQJ
+
+**TypeScript · Node.js · Oracle Cloud · Claude Code**
 
 <br/>
 
