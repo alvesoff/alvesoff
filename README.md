@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=alvesoff&label=Perfil%20visto&color=00b4d8&style=flat" alt="Perfil visto" />
+<img src="https://img.shields.io/badge/Reposit%C3%B3rios-62-00B4D8?style=flat&logo=github&logoColor=white" alt="Repositórios" />
 &nbsp;
 <a href="https://www.linkedin.com/in/alvesdossan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:gustavo.santos@educandariorp.com.br"><img src="https://img.shields.io/badge/E--mail-00B4D8?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
