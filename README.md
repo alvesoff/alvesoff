@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:0077b6,100:00b4d8&height=210&section=header&text=Gustavo%20Alves&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%2B%20DevOps%20%C2%B7%20FECQJ%20%C2%B7%20Ribeir%C3%A3o%20Preto&descAlignY=58&descSize=18&animation=fadeIn" alt="Gustavo Alves — Full-Stack + DevOps" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:0077b6,100:00b4d8&height=210&section=header&text=Gustavo%20Alves&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%2B%20DevOps%20%C2%B7%20Especialista%20em%20IA%20%C2%B7%20Oracle%20Cloud&descAlignY=58&descSize=17&animation=fadeIn" alt="Gustavo Alves, Full-Stack, DevOps e IA" />
 
 <div align="center">
 
@@ -7,13 +7,19 @@
 <a href="https://www.linkedin.com/in/alvesdossan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:gustavo.santos@educandariorp.com.br"><img src="https://img.shields.io/badge/E--mail-00B4D8?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
+<i>Evolução, persistência e tecnologia.</i>
+
 </div>
 
 ## Sobre
 
-Desenvolvedor **Full-Stack + DevOps** na Fundação Educandário Coronel Quito Junqueira (FECQJ), em Ribeirão Preto. Mantenho e evoluo a stack de software e a infra em **Oracle Cloud + Kubernetes** que professores, alunos e administradores usam todo dia — e integro **LLMs** (Claude, Gemini, Codex) em ferramentas internas e fluxos com **n8n**.
+Sou desenvolvedor Full-Stack e DevOps, especialista em IA e empreendedor. Na Fundação Educandário Coronel Quito Junqueira (FECQJ), em Ribeirão Preto, toco a operação de tecnologia de ponta a ponta.
 
-🎓 Cursando **Ciência da Computação** &nbsp;·&nbsp; 🤝 Aberto a freelas e oportunidades
+Administro toda a infraestrutura em **Oracle Cloud** (cluster Kubernetes no OKE, VMs, redes e storage), mantenho o CI/CD no **Oracle DevOps** com boas práticas de Git nos projetos da fundação, e sou administrador geral do ERP **Oracle NetSuite**, orientando e apoiando o time da linha de frente na implantação e no uso do dia a dia. Reorganizei a gestão de TI da fundação com um sistema integrado que unificou tudo ao NetSuite, e cortei o custo de infraestrutura pela metade (50%) aplicando metodologias de Claude Code.
+
+Na parte de IA sou certificado oficial em **Claude Code** e programo sistemas internos inteligentes com foco em análise de dados. Hoje são **8 sistemas em produção** na empresa. Como empreendedor, toco a **SeedWave**, minha startup, com produtos reais rodando em clientes: um PDV de frente de caixa e um atendente virtual para o mercado americano.
+
+🎓 Cursando **Ciência da Computação** &nbsp;·&nbsp; 🤝 **Aberto a Oportunidades**
 
 ## Stack
 
@@ -21,7 +27,14 @@ Desenvolvedor **Full-Stack + DevOps** na Fundação Educandário Coronel Quito J
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,vite,tailwind,prisma,postgres,docker,kubernetes,linux,git,python&theme=dark&perline=15" alt="Tecnologias" />
 
-<sub><b>Cloud & Automação:</b>&nbsp; Oracle Cloud &nbsp;·&nbsp; Helm &nbsp;·&nbsp; n8n &nbsp;·&nbsp; Claude &nbsp;·&nbsp; OpenAI</sub>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Oracle%20Cloud-023047?style=for-the-badge&logo=oracle&logoColor=00B4D8" alt="Oracle Cloud" />
+<img src="https://img.shields.io/badge/Oracle%20NetSuite-023047?style=for-the-badge&logo=oracle&logoColor=00B4D8" alt="Oracle NetSuite" />
+<img src="https://img.shields.io/badge/Oracle%20DevOps-023047?style=for-the-badge&logo=oracle&logoColor=00B4D8" alt="Oracle DevOps" />
+<img src="https://img.shields.io/badge/Claude%20Code-023047?style=for-the-badge&logo=anthropic&logoColor=00B4D8" alt="Claude Code" />
+<img src="https://img.shields.io/badge/n8n-023047?style=for-the-badge&logo=n8n&logoColor=00B4D8" alt="n8n" />
+<img src="https://img.shields.io/badge/OpenAI-023047?style=for-the-badge&logo=openai&logoColor=00B4D8" alt="OpenAI" />
 
 </div>
 
