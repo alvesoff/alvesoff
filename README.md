@@ -1,80 +1,50 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:0077b6,100:00b4d8&height=210&section=header&text=Gustavo%20Alves&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%2B%20DevOps%20%C2%B7%20FECQJ%20%C2%B7%20Ribeir%C3%A3o%20Preto&descAlignY=58&descSize=18&animation=fadeIn" alt="Gustavo Alves — Full-Stack + DevOps" />
+
 <div align="center">
 
-# Olá, sou o Gustavo Alves 👋
-
-### Dev Full-Stack + DevOps na FECQJ
-
-**TypeScript · Node.js · Oracle Cloud · Claude Code**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Aberto a oportunidades"/>
-<img src="https://img.shields.io/badge/Ribeir%C3%A3o%20Preto%2C%20SP-Brasil-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
+<img src="https://komarev.com/ghpvc/?username=alvesoff&label=Perfil%20visto&color=00b4d8&style=flat" alt="Perfil visto" />
+&nbsp;
+<a href="https://www.linkedin.com/in/alvesdossan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gustavo.santos@educandariorp.com.br"><img src="https://img.shields.io/badge/E--mail-00B4D8?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
 
----
+## Sobre
 
-### Sobre
+Desenvolvedor **Full-Stack + DevOps** na Fundação Educandário Coronel Quito Junqueira (FECQJ), em Ribeirão Preto. Mantenho e evoluo a stack de software e a infra em **Oracle Cloud + Kubernetes** que professores, alunos e administradores usam todo dia — e integro **LLMs** (Claude, Gemini, Codex) em ferramentas internas e fluxos com **n8n**.
 
-Desenvolvedor Full-Stack com foco em **TypeScript/Node.js** e DevOps em **Oracle Cloud + Kubernetes**. Trabalho na Fundação Educandário Coronel Quito Junqueira (FECQJ), em Ribeirão Preto, mantendo e evoluindo a stack de software e infra usada por professores, alunos e administradores.
+🎓 Cursando **Ciência da Computação** &nbsp;·&nbsp; 🤝 Aberto a freelas e oportunidades
 
-- 🎓 Cursando **Ciência da Computação** — Centro Universitário Barão de Mauá
-- 🤝 **Aberto a freelas e oportunidades** — TypeScript, Node, automações e infra cloud
-- 🤖 Integro LLMs (Claude, Gemini, Codex) em ferramentas internas e fluxos com **n8n**
+## Stack
 
----
+<div align="center">
 
-### Stack
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,vite,tailwind,prisma,postgres,docker,kubernetes,linux,git,python&theme=dark&perline=15" alt="Tecnologias" />
 
-**Frontend** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<sub><b>Cloud & Automação:</b>&nbsp; Oracle Cloud &nbsp;·&nbsp; Helm &nbsp;·&nbsp; n8n &nbsp;·&nbsp; Claude &nbsp;·&nbsp; OpenAI</sub>
 
-**Backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+</div>
 
-**DevOps & Cloud** &nbsp;
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+## GitHub em números
 
-**Automação & IA** &nbsp;
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-&nbsp;·&nbsp; **Tools** &nbsp;
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-&nbsp;·&nbsp; **Aprendendo** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<div align="center">
 
----
+<img height="185" src="https://streak-stats.demolab.com?user=alvesoff&hide_border=true&background=0d1117&stroke=30363d&ring=00b4d8&fire=00b4d8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e" alt="Sequência de contribuições" />
+
+</div>
+
+## Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alvesdossan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gustavo.santos@educandariorp.com.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvesoff&bg_color=0d1117&color=00b4d8&line=00d4f5&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:023047&height=120&section=footer" alt="" />
