@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alvesoff/alvesoff/main/banner.svg" width="100%" alt="Gustavo Alves, Full Stack e AI Engineer" />
+# Gustavo Alves
 
 Desenvolvedor Full Stack Pleno e AI Engineer na Fundação Educandário Cel. Quito Junqueira, em Ribeirão Preto. Backend em TypeScript e Node.js, infraestrutura na Oracle Cloud e sistemas com LLM.
 
