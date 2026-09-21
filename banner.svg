@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Gustavo Alves, Full Stack e AI Engineer">
+  <title>Gustavo Alves</title>
+
+  <defs>
+    <!-- Fundo: o azul profundo da paleta, escurecendo para baixo. -->
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#02121d"/>
+      <stop offset="0.55" stop-color="#041b2b"/>
+      <stop offset="1" stop-color="#010a12"/>
+    </linearGradient>
+
+    <!-- Halo que pulsa atras do titulo. -->
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00b4d8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#00b4d8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grade de fundo, densa e fraca: sensacao de telemetria. -->
+    <pattern id="grade" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#00b4d8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <!-- Linhas horizontais de varredura, como monitor velho. -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity="0.35"/>
+    </pattern>
+
+    <!-- A faixa de luz que desce pela tela. -->
+    <linearGradient id="varredura" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00d4f5" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00d4f5" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#00d4f5" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="quadro">
+      <rect x="0" y="0" width="1000" height="230" rx="10"/>
+    </clipPath>
+
+    <style>
+      /* Monospace generico: fonte externa nao carrega dentro de img no GitHub. */
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+
+      .titulo { font-size: 62px; font-weight: 700; letter-spacing: 6px; }
+
+      /* Aberracao cromatica: duas copias deslocadas piscando fora de fase.
+         E o que da o ar de sinal corrompido sem precisar de filtro pesado. */
+      .glitch-c { fill: #00d4f5; opacity: 0.55; animation: desloca-c 2.6s steps(1) infinite; }
+      .glitch-m { fill: #ff2e63; opacity: 0.45; animation: desloca-m 2.6s steps(1) infinite; }
+      @keyframes desloca-c {
+        0%, 86% { transform: translate(0, 0); opacity: 0; }
+        87%     { transform: translate(-3px, 1px); opacity: 0.55; }
+        90%     { transform: translate(2px, -2px); opacity: 0.4; }
+        93%     { transform: translate(-2px, 0); opacity: 0.5; }
+        95%,100%{ transform: translate(0, 0); opacity: 0; }
+      }
+      @keyframes desloca-m {
+        0%, 86% { transform: translate(0, 0); opacity: 0; }
+        88%     { transform: translate(3px, -1px); opacity: 0.45; }
+        91%     { transform: translate(-2px, 2px); opacity: 0.3; }
+        94%     { transform: translate(2px, 0); opacity: 0.4; }
+        96%,100%{ transform: translate(0, 0); opacity: 0; }
+      }
+
+      /* O proprio titulo tremendo de leve no mesmo instante. */
+      .base { fill: #e8f6fb; animation: treme 2.6s steps(1) infinite; }
+      @keyframes treme {
+        0%, 86%, 96%, 100% { transform: translate(0, 0); }
+        88% { transform: translate(1px, 0); }
+        92% { transform: translate(-1px, 0); }
+      }
+
+      /* O cursor anda junto com a mascara que revela a linha. */
+      .cursor { animation: acompanha 7s steps(46) infinite, pisca 1.1s steps(1) infinite; }
+      @keyframes acompanha {
+        0%       { transform: translateX(0); }
+        45%, 92% { transform: translateX(560px); }
+        100%     { transform: translateX(0); }
+      }
+      @keyframes pisca { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+
+      .halo { animation: respira 4s ease-in-out infinite; }
+      @keyframes respira { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+
+      .varre { animation: desce 6s linear infinite; }
+      @keyframes desce {
+        0%   { transform: translateY(-60px); }
+        100% { transform: translateY(240px); }
+      }
+
+      /* A linha de terminal sendo digitada: a mascara abre da esquerda. */
+      .digita { animation: digitando 7s steps(46) infinite; }
+      @keyframes digitando {
+        0%       { width: 0; }
+        45%, 92% { width: 560px; }
+        100%     { width: 0; }
+      }
+
+      .led { animation: bate 2s ease-in-out infinite; }
+      @keyframes bate { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    </style>
+
+    <mask id="mascara-digita">
+      <rect class="digita" x="46" y="176" width="0" height="26" fill="#fff"/>
+    </mask>
+  </defs>
+
+  <g clip-path="url(#quadro)">
+    <rect width="1000" height="230" fill="url(#fundo)"/>
+    <rect width="1000" height="230" fill="url(#grade)"/>
+
+    <!-- Halo atras do nome -->
+    <ellipse class="halo" cx="330" cy="92" rx="420" ry="120" fill="url(#halo)"/>
+
+    <!-- Barra superior: led + rotulo de sistema -->
+    <circle class="led" cx="30" cy="30" r="4" fill="#00d4f5"/>
+    <text class="mono led" x="44" y="34" font-size="12" letter-spacing="3" fill="#4fd3ee">SISTEMA ATIVO</text>
+    <text class="mono" x="970" y="34" font-size="12" letter-spacing="3" fill="#2a7f97" text-anchor="end">RIBEIRAO PRETO / BR</text>
+
+    <!-- Nome, com as tres camadas do glitch -->
+    <g>
+      <text class="mono titulo glitch-c" x="44" y="118">GUSTAVO ALVES</text>
+      <text class="mono titulo glitch-m" x="44" y="118">GUSTAVO ALVES</text>
+      <text class="mono titulo base"     x="44" y="118">GUSTAVO ALVES</text>
+    </g>
+
+    <!-- Subtitulo -->
+    <text class="mono" x="46" y="150" font-size="16" letter-spacing="4" fill="#7fd9ef">
+      FULL STACK <tspan fill="#2a7f97">·</tspan> AI ENGINEER <tspan fill="#2a7f97">·</tspan> ORACLE CLOUD
+    </text>
+
+    <!-- Linha de terminal digitando -->
+    <g mask="url(#mascara-digita)">
+      <text class="mono" x="46" y="194" font-size="15" fill="#9fe6f7">
+        <tspan fill="#00d4f5">$</tspan> deploy --produção --sem-medo
+      </text>
+    </g>
+    <rect class="cursor" x="46" y="181" width="9" height="15" fill="#00d4f5" opacity="0.9"/>
+
+    <!-- Varredura e scanlines por cima de tudo -->
+    <rect class="varre" x="0" y="0" width="1000" height="60" fill="url(#varredura)" opacity="0.5"/>
+    <rect width="1000" height="230" fill="url(#scanlines)"/>
+
+    <rect x="0.5" y="0.5" width="999" height="229" rx="10" fill="none" stroke="#00b4d8" stroke-opacity="0.35"/>
+  </g>
+</svg>

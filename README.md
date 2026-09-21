@@ -1,10 +1,12 @@
-# Gustavo Alves
+<img src="https://raw.githubusercontent.com/alvesoff/alvesoff/main/banner.svg" width="100%" alt="Gustavo Alves, Full Stack e AI Engineer" />
 
 Desenvolvedor Full Stack Pleno e AI Engineer na Fundação Educandário Cel. Quito Junqueira, em Ribeirão Preto. Backend em TypeScript e Node.js, infraestrutura na Oracle Cloud e sistemas com LLM.
 
 Cursando Ciência da Computação no Centro Universitário Barão de Mauá.
 
-[LinkedIn](https://www.linkedin.com/in/alvesdossan/) &nbsp;·&nbsp; [E-mail](mailto:gustavo.santos@educandariorp.com.br)
+<a href="https://www.linkedin.com/in/alvesdossan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:gustavo.santos@educandariorp.com.br"><img src="https://img.shields.io/badge/E--mail-00B4D8?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
 
 ## Stack
 
@@ -16,7 +18,7 @@ Cursando Ciência da Computação no Centro Universitário Barão de Mauá.
 
 **Observabilidade e integração** &nbsp; Grafana · Prometheus · Swagger · n8n · Microsoft 365 (Entra ID)
 
-**IA** &nbsp; Claude Code · MCP · Gemini CLI
+**IA** &nbsp; Claude Code · Codex CLI · Cursor · MCP (servidores próprios) · agentes headless · orquestração multiagente · engenharia de contexto
 
 <div align="center">
 
