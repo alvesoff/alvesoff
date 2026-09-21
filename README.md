@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:0077b6,100:00b4d8&height=210&section=header&text=Gustavo%20Alves&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%2B%20DevOps%20%C2%B7%20Especialista%20em%20IA%20%C2%B7%20Oracle%20Cloud&descAlignY=58&descSize=17&animation=fadeIn" alt="Gustavo Alves, Full-Stack, DevOps e IA" />
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Reposit%C3%B3rios-62-00B4D8?style=flat&logo=github&logoColor=white" alt="Repositórios" />
-&nbsp;
+# Gustavo Alves
+
+**Full-Stack + DevOps** &nbsp;·&nbsp; **Especialista em IA** &nbsp;·&nbsp; **Oracle Cloud**
+
 <a href="https://www.linkedin.com/in/alvesdossan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:gustavo.santos@educandariorp.com.br"><img src="https://img.shields.io/badge/E--mail-00B4D8?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
-<i>Evolução, persistência e tecnologia.</i>
+<i>Construo e mantenho o que roda em produção: infraestrutura, sistemas internos e produtos próprios.</i>
 
 </div>
 
@@ -56,8 +56,4 @@ Na parte de IA sou certificado oficial em **Claude Code** e programo sistemas in
   <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/alvesoff/alvesoff/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvesoff&bg_color=0d1117&color=00b4d8&line=00d4f5&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" />
-
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:023047&height=120&section=footer" alt="" />
